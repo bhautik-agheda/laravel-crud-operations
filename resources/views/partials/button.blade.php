@@ -1,0 +1,2 @@
+<a href="{{ route('categories.index') }}" class="bg-gray-200 px-4 py-1 p-1 rounded hover:bg-red-600">Back to Categories List</a>
+<a href="{{ route('products.index') }}" class="bg-gray-200 px-4 py-1 p-1 rounded hover:bg-red-600">Back to Products List</a>
